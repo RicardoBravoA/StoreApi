@@ -1,0 +1,13 @@
+# Copyright: Team Mobile - Orbis Ventures
+
+# IntelliJ files
+.idea
+*.iml
+
+# OSX files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+
