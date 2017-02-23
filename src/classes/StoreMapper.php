@@ -69,7 +69,7 @@ class StoreMapper extends Mapper
             $meta = array();
             $meta["status"] = "error";
             $meta["code"] = "100";
-            $meta["message"] = "No existe información";
+            $meta["message"] = "Usuario y/o contraseña incorrectos";
             $response["_meta"] = $meta;
             $errorCode = 500;
         }
